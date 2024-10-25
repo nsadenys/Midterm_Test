@@ -2,6 +2,7 @@
 
   ## Tableau project of SuperStore Orders Global Sale Products Analysis Dashboard
 
+My project is about of SuperStore Orders Global Sale Products Analysis Dashboard
 
 
 INTRODUCTION: This Analysis will help how they can sold the products in different country in world( Global or continental sale products). 
