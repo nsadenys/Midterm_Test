@@ -1,6 +1,6 @@
 # Sales Categories Analysis
 
-  ## Tableau project of SuperStore Orders Global sale products Analysis dashboard
+  ## Tableau project of SuperStore Orders Global Sale Products Analysis Dashboard
 
 
 
