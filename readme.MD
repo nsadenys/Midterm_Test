@@ -1,6 +1,6 @@
 # Sales Categories Analysis
 
-  My project is about tableau project of SuperStore Orders Global sale products Analysis dashboard
+  ## Tableau project of SuperStore Orders Global sale products Analysis dashboard
 
 
 
